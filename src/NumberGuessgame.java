@@ -105,7 +105,7 @@ public class NumberGuessgame {
         return false;
     }
     public static boolean askReplay(){
-        System.out.print("Do you want to play game again(y/n)");
+        System.out.print("Do you want to play game again(y/n): ");
         String answer = scanner.next().trim().toLowerCase();
         if(answer.equals("y")){
             return true;
