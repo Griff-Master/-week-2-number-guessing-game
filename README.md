@@ -46,5 +46,5 @@
 3. :hammer_and_wrench: Technique to reduce nesting
      - Use continue/return to exit early when conditions are invalid
    
-:bust_in_silhoutte: Author
+:bust_in_silhouette: Author
 Griffins Kyei
