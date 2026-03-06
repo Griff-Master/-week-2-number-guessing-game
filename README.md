@@ -1,4 +1,5 @@
 :rocket: Number Guessing Game
+
 :video_game: How the game works 
 1. The player chooses difficulty
 2. The system generates secrete number
@@ -27,7 +28,7 @@
 4. :arrows_counterclockwise: Replay Option
      - After winning the player can choose to play again
 
-:forward_arrow: How to Run
+:arrow_forward: How to Run
 1. Clone the repository
     - Copy the Github repository URL
     - Open IntelliJ
